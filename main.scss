@@ -1,0 +1,50 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-width: 400px;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+#inputbtn,#tabbtn{
+    background-color: #1faf9c;
+    border: 1px solid #1e8577;
+    color: white;
+    font-weight: bold;
+}
+// #tabbtn{
+//     background-color: #1faf9c;
+//     border: 1px solid #1e8577;
+//     color: white;
+//     font-weight: bold;
+// }
+
+#clearbtn{
+    background-color: white;
+    border: 1px solid;
+    border-color: #1e8577;    
+    color: #1e8577;
+    font-weight: bold;
+}
+
+#inputfld
+{
+    width: 100%;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    padding: 8px 5px;
+    font-weight: bold;
+    border: 1px solid;
+    border-color: #1faf9c;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    margin: 2px;
+}
+a{
+color: #1faf9c;
+}
